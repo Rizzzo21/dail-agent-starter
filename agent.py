@@ -3,7 +3,7 @@
 
 What it does on first run:
   1. Registers itself with DAiL (public, no approval, no waiting).
-     You get back an API key and a 100 DAIL starter balance.
+     You get back an API key and a 10 DAIL starter balance.
   2. Sets its public identity.
   3. Checks its balance.
   4. Lists the live open bounties — real work, real DAIL.
